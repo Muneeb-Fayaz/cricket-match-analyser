@@ -1,0 +1,25 @@
+match_id,date,format,competition,team_1,team_2,team_1_score,team_2_score,team_1_runs,team_2_runs,winner,result,venue,coverage
+sample-001,2024-06-09,t20i,World Cup,India,South Africa,176/7,169/8,176,169,India,India won by 7 runs,Barbados,scorecard
+sample-002,2024-06-08,t20i,World Cup,Australia,England,201/7,165,201,165,Australia,Australia won by 36 runs,Barbados,scorecard
+sample-003,2024-06-05,t20i,World Cup,India,Ireland,97/2,96,97,96,India,India won by 8 wickets,New York,scorecard
+sample-004,2024-06-04,t20i,World Cup,South Africa,Sri Lanka,80/4,77,80,77,South Africa,South Africa won by 6 wickets,New York,scorecard
+sample-005,2023-11-19,odi,World Cup,Australia,India,241/4,240,241,240,Australia,Australia won by 6 wickets,Ahmedabad,scorecard
+sample-006,2023-11-15,odi,World Cup,India,New Zealand,397/4,327,397,327,India,India won by 70 runs,Mumbai,scorecard
+sample-007,2023-11-12,odi,World Cup,India,Netherlands,410/4,250,410,250,India,India won by 160 runs,Bengaluru,scorecard
+sample-008,2023-11-11,odi,World Cup,Australia,Bangladesh,306/7,306/8,306,306,Australia,Australia won by 8 wickets,Pune,scorecard
+sample-009,2023-11-10,odi,World Cup,South Africa,Afghanistan,247/5,244,247,244,South Africa,South Africa won by 5 wickets,Ahmedabad,scorecard
+sample-010,2022-10-23,t20i,World Cup,India,Pakistan,160/6,159/8,160,159,India,India won by 4 wickets,Melbourne,scorecard
+sample-011,2022-10-27,t20i,World Cup,India,Netherlands,179/2,123/9,179,123,India,India won by 56 runs,Sydney,scorecard
+sample-012,2022-10-30,t20i,World Cup,India,South Africa,133/9,137/5,133,137,South Africa,South Africa won by 5 wickets,Perth,scorecard
+sample-013,2021-11-14,t20i,World Cup,Australia,New Zealand,173/2,172/4,173,172,Australia,Australia won by 8 wickets,Dubai,scorecard
+sample-014,2019-07-14,odi,World Cup,England,New Zealand,241,241,241,241,England,England won on boundary count,Lord's,scorecard
+sample-015,2019-07-11,odi,World Cup,England,Australia,221/2,223,221,223,England,England won by 8 wickets,Birmingham,scorecard
+sample-016,2019-07-09,odi,World Cup,India,New Zealand,221,239/8,221,239,New Zealand,New Zealand won by 18 runs,Manchester,scorecard
+sample-017,2016-03-31,t20i,World Cup,India,West Indies,192/2,196/3,192,196,West Indies,West Indies won by 7 wickets,Mumbai,scorecard
+sample-018,2015-03-26,odi,World Cup,Australia,India,328/7,233,328,233,Australia,Australia won by 95 runs,Sydney,scorecard
+sample-019,2011-04-02,odi,World Cup,India,Sri Lanka,277/4,274/6,277,274,India,India won by 6 wickets,Mumbai,scorecard
+sample-020,2007-09-24,t20i,World Cup,India,Pakistan,157/5,152,157,152,India,India won by 5 runs,Johannesburg,scorecard
+sample-021,2024-06-12,t20i,World Cup,USA,India,110/8,111/3,110,111,India,India won by 7 wickets,New York,scorecard
+sample-022,2024-06-14,t20i,World Cup,South Africa,Nepal,115/7,114/7,115,114,South Africa,South Africa won by 1 run,Kingstown,scorecard
+sample-023,2023-10-14,odi,World Cup,India,Pakistan,192/3,191,192,191,India,India won by 7 wickets,Ahmedabad,scorecard
+sample-024,2023-10-08,odi,World Cup,India,Australia,201/4,199,201,199,India,India won by 6 wickets,Chennai,scorecard
